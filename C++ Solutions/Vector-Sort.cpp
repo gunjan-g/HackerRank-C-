@@ -1,5 +1,6 @@
-/*  Problem Link:
-    https://www.hackerrank.com/challenges/vector-sort/problem 
+/*  
+Problem Link:
+https://www.hackerrank.com/challenges/vector-sort/problem 
 
 Ques.
 You are given N integers. Sort the N integers and print the sorted order.
@@ -11,6 +12,7 @@ Sample Input:
 
 Sample Output:
 1 4 6 8 10
+
 */
 
 #include <cmath>

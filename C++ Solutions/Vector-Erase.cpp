@@ -1,5 +1,7 @@
-/* Problem Link:
-   https://www.hackerrank.com/challenges/vector-erase/problem 
+/* 
+
+Problem Link:
+https://www.hackerrank.com/challenges/vector-erase/problem 
    
 Ques. 
 You are provided with a vector of N integers. Then, you are given 2 queries. For the first query, you are provided with 1 integer, which denotes a position
@@ -20,6 +22,7 @@ Sample Output:
 Explanation:
 The first query is to erase the 2nd element in the vector, which is 4. Then, modifed vector is {1 6 2 8 9}, we want to remove the range of 2~4, which 
 means the 2nd and 3rd elements should be removed. Then 6 and 2 in the modified vector are removed and we finally get {1 8 9}
+
 */
 
 #include <cmath>

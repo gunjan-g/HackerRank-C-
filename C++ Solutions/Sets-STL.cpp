@@ -1,5 +1,6 @@
-/* Problem Link:
-   https://www.hackerrank.com/challenges/cpp-sets/problem 
+/* 
+Problem Link:
+https://www.hackerrank.com/challenges/cpp-sets/problem 
    
 Ques.
 You will be given Q queries. Each query is of one of the following three types:
@@ -23,6 +24,7 @@ Sample Output:
 Yes
 No
 No
+
 */
 
 #include <cmath>

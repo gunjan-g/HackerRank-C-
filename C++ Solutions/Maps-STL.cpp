@@ -1,5 +1,6 @@
-/* Problem Link:
-    https://www.hackerrank.com/challenges/cpp-maps/problem 
+/* 
+Problem Link:
+https://www.hackerrank.com/challenges/cpp-maps/problem 
     
 Ques.
 You are appointed as the assistant to a teacher in a school and she is correcting the answer sheets of the students. Each student can have multiple answer sheets. So the teacher has Q queries:
@@ -22,6 +23,7 @@ Sample Output:
 30
 20
 0
+
 */
 
 #include <cmath>
